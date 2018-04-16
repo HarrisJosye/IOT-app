@@ -1,0 +1,124 @@
+<resources>
+
+    <!-- App Info -->
+    <string name="app_name">Routex Controller</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Settings -->
+    <string name="title_activity_settings">Settings</string>
+    <string name="general">General</string>
+    <string name="notifications">Notifications</string>
+    <string name="notification_sound">Notification Sound</string>
+    <string name="notification_vibration">Notification Vibration</string>
+    <string name="mail_dest">Mail destination</string>
+    <string name="server_url">Server URL</string>
+
+
+    <!-- Settings Default Values -->
+    <string name="default_server_url">http://192.168.1.13/Routex</string>
+    <string name="default_dest_mail">example@example.com</string>
+
+
+    <!-- List Elements Labels -->
+    <string name="le_device">Device: </string>
+    <string name="le_device_name">Device Name: </string>
+    <string name="le_service">Service: </string>
+    <string name="le_command">Command: </string>
+    <string name="le_technology">Technology: </string>
+    <string name="le_always_on">Always On: </string>
+    <string name="le_frequency">Frequency: </string>
+    <string name="le_time">Time: </string>
+    <string name="le_device_services">Device Services: </string>
+    <string name="le_router_status">Router Status: </string>
+    <string name="le_action">Action: </string>
+    <string name="le_condition">Condition: </string>
+    <string name="le_value">Value: </string>
+
+
+    <!-- Time -->
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="seconds">Seconds</string>
+    <string name="seconds_between_data_request">Seconds between data requests</string>
+    <string name="select_start_time">Select start time</string>
+    <string name="select_end_time">Select end time</string>
+
+
+    <!-- Dialogs -->
+    <string name="getting_devices">Getting devices from router...</string>
+    <string name="getting_services">Getting services of selected device...</string>
+    <string name="getting_schedule">Getting schedule...</string>
+    <string name="getting_triggers">Getting triggers...</string>
+    <string name="add_schedule_element">Add schedule element</string>
+    <string name="command_already_scheduled">Command already in schedule</string>
+    <string name="remove_element_from_schedule">Remove element from schedule?</string>
+    <string name="set_condition">Set condition</string>
+    <string name="set_action">Set action</string>
+    <string name="value_cant_be_empty">Value can\'t be empty</string>
+    <string name="remove_trigger">Remove trigger</string>
+    <string name="remove_device">Remove device</string>
+    <string name="device_removed">Device removed</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="remove">Remove</string>
+    <string name="argument">Command Argument</string>
+    <string name="select_services">Select services</string>
+    <string name="add">Add</string>
+    <string name="set_conditions">Select conditions</string>
+    <string name="text_content">Text content</string>
+
+
+    <!-- Fragment Titles -->
+    <string name="frag_commands">Commands</string>
+    <string name="frag_schedule">Schedule</string>
+    <string name="frag_graph">Graph</string>
+    <string name="frag_triggers">Triggers</string>
+    <string name="frag_devices">Devices</string>
+    <string name="frag_services">Services</string>
+
+
+    <!-- Trigger Conditions -->
+    <string name="cond_greater">Greater</string>
+    <string name="cond_equal">Equal</string>
+    <string name="cond_less">Less</string>
+    <string name="cond_matches">Matches</string>
+    <string name="cond_contains">Contains</string>
+
+
+    <!-- Service Types -->
+    <string name="attuator">Attuator</string>
+    <string name="sensor_text">Sensor (Text)</string>
+    <string name="sensor_number">Sensor (Number)</string>
+
+
+    <!-- Error Values -->
+    <string name="server_unreachable">Server unreachable</string>
+
+
+    <!-- General Values -->
+    <string name="command">Command</string>
+    <string name="mail">Mail</string>
+    <string name="notification">Notification</string>
+    <string name="error">Error</string>
+    <string name="real_time">Real Time</string>
+    <string name="fixed_interval">Fixed Interval</string>
+    <string name="schedule">Schedule</string>
+    <string name="triggers">Triggers</string>
+    <string name="request_status">Request Status</string>
+    <string name="str_true">True</string>
+    <string name="str_false">False</string>
+    <string name="enable">Enable</string>
+    <string name="disable">Disable</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="all_services">All Services</string>
+    <string name="no_value">No Value</string>
+    <string name="filter_service">Service Filter</string>
+    <string name="time">Time</string>
+    <string name="frequency">Frequency</string>
+
+
+
+
+</resources>

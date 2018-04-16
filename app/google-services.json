@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "1032782678151",
+    "project_id": "routex-1364"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032782678151:android:1cc49b554aad6892",
+        "android_client_info": {
+          "package_name": "it.ex.routex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXjUGGobxUrI2NVreWYQVV_bVziACKr2Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

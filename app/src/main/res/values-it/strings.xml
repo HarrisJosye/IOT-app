@@ -1,0 +1,123 @@
+<resources>
+
+    <!-- App Info -->
+    <string name="app_name">Routex Controller</string>
+    <string name="action_settings">Impostazioni</string>
+
+
+    <!-- Settings -->
+    <string name="title_activity_settings">Impostazioni</string>
+    <string name="general">Generale</string>
+    <string name="notifications">Notifiche</string>
+    <string name="notification_sound">Suono Notifiche</string>
+    <string name="notification_vibration">Vibrazione Notifiche</string>
+    <string name="mail_dest">Destinazione delle Mail</string>
+    <string name="server_url">Server URL</string>
+
+
+    <!-- Settings Default Values -->
+    <string name="default_server_url">http://192.168.1.13/RouteX</string>
+    <string name="default_dest_mail">example@example.com</string>
+
+
+    <!-- List Elements Labels -->
+    <string name="le_device">Dispositivo: </string>
+    <string name="le_device_name">Nome Dispositivo: </string>
+    <string name="le_service">Servizio: </string>
+    <string name="le_command">Comando: </string>
+    <string name="le_technology">Tecnologia: </string>
+    <string name="le_always_on">Sempre Attivo: </string>
+    <string name="le_frequency">Frequenza: </string>
+    <string name="le_time">Orario: </string>
+    <string name="le_device_services">Servizi del Dispositivo: </string>
+    <string name="le_router_status">Stato del Router: </string>
+    <string name="le_action">Azione: </string>
+    <string name="le_condition">Condizione: </string>
+    <string name="le_value">Valore: </string>
+
+
+    <!-- Time -->
+    <string name="hours">Ore</string>
+    <string name="minutes">Minuti</string>
+    <string name="seconds">Secondi</string>
+    <string name="seconds_between_data_request">Secondi fra gli aggiornamenti</string>
+    <string name="select_start_time">Scegli momento di inizio</string>
+    <string name="select_end_time">Scegli momento di fine</string>
+
+
+    <!-- Dialogs -->
+    <string name="getting_devices">Richiesta dispositivi...</string>
+    <string name="getting_services">Richiesta servizi del dispositivo...</string>
+    <string name="getting_schedule">Richiesta azioni in programma...</string>
+    <string name="getting_triggers">Richiesta triggers...</string>
+    <string name="add_schedule_element">Aggiungi un evento</string>
+    <string name="command_already_scheduled">Comando gia\' in programma</string>
+    <string name="remove_element_from_schedule">Rimuovere elemento?</string>
+    <string name="set_condition">Scegli condizione</string>
+    <string name="set_action">Scegli azione</string>
+    <string name="value_cant_be_empty">Il valore non puo\' essere vuoto</string>
+    <string name="remove_trigger">Rimuovi trigger</string>
+    <string name="remove_device">Rimuovi dispositivo</string>
+    <string name="device_removed">Dispositivo rimosso</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Annulla</string>
+    <string name="remove">Rimuovi</string>
+    <string name="argument">Parametro del Comando</string>
+    <string name="select_services">Scegli i servizi</string>
+    <string name="add">Aggiungi</string>
+    <string name="set_conditions">Scegli condizioni</string>
+    <string name="text_content">Testo</string>
+
+
+    <!-- Fragment Titles -->
+    <string name="frag_commands">Comandi</string>
+    <string name="frag_schedule">Programma Eventi</string>
+    <string name="frag_graph">Grafico</string>
+    <string name="frag_triggers">Trigger</string>
+    <string name="frag_devices">Dispositivi</string>
+    <string name="frag_services">Servizi</string>
+
+
+    <!-- Trigger Conditions -->
+    <string name="cond_greater">Maggiore</string>
+    <string name="cond_equal">Uguale</string>
+    <string name="cond_less">Minore</string>
+    <string name="cond_matches">Combacia</string>
+    <string name="cond_contains">Contiene</string>
+
+
+    <!-- Service Types -->
+    <string name="attuator">Attuatore</string>
+    <string name="sensor_text">Sensore (Testo)</string>
+    <string name="sensor_number">Sensore (Numero)</string>
+
+
+    <!-- Error Values -->
+    <string name="server_unreachable">Server non raggiungibile</string>
+
+
+    <!-- General Values -->
+    <string name="command">Comando</string>
+    <string name="mail">Mail</string>
+    <string name="notification">Notifica</string>
+    <string name="error">Errore</string>
+    <string name="real_time">In tempo reale</string>
+    <string name="fixed_interval">Intervallo fissato</string>
+    <string name="schedule">Programma</string>
+    <string name="triggers">Trigger</string>
+    <string name="request_status">Stato della richiesta</string>
+    <string name="str_true">Si</string>
+    <string name="str_false">No</string>
+    <string name="enable">Attiva</string>
+    <string name="disable">Disattiva</string>
+    <string name="on">Attivo</string>
+    <string name="off">Non Attivo</string>
+    <string name="all_services">Tutti i Servizi</string>
+    <string name="no_value">Nessun Valore</string>
+    <string name="filter_service">Filtra Servizi</string>
+    <string name="time">Orario</string>
+    <string name="frequency">Frequenza</string>
+
+
+
+</resources>
